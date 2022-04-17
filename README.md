@@ -22,3 +22,4 @@ Then to install individual configs, for example VSCode plugins, use
 
 - https://github.com/Vaelatern/init-dotfiles
 - https://github.com/anishathalye/dotbot
+-
