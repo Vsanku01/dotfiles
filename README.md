@@ -26,3 +26,4 @@ Then to install individual configs, for example VSCode plugins, use
 
 ## VSCODE
 - Bearded Theme & Icons
+- CSS Peek
